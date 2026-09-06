@@ -168,6 +168,10 @@ with st.sidebar:
 
 tabs = st.tabs(
     [
+        "ℹ️ Portfolio Overview",
+        "📖 Demo Guide",
+        "🏗️ Architecture",
+        "📊 Data Dictionary",
         "Seller Copilot",
         "Governance Control Center",
         "Evaluation Lab",
@@ -177,10 +181,6 @@ tabs = st.tabs(
         "Learning-to-Scale Lab",
         "Agent Lifecycle Governance",
         "Step 3 — Alerts & Human Escalation",
-        "📖 Demo Guide",
-        "📊 Data Dictionary",
-        "🏗️ Architecture",
-        "ℹ️ Portfolio Overview",
     ]
 )
 
